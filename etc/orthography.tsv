@@ -1,0 +1,147 @@
+Grapheme	IPA	Frequency	Comment
+a	a	5426	
+i	i	2780	
+n	n	2509	
+u	u	2485	
+m	m	1981	
+o	o	1615	
+ŋ	ŋ	1486	
+k	k	1350	
+t	t	1259	
+s	s	1191	
+l	l	1170	
+'	NULL	995	stress mark
+g	g	911	
+r	ɾ	906	UNCERTAIN: plain r read as tap, contrasting with trill ř/r̃
+b	b	833	
+e	e	824	
+ɛ	ɛ	819	
+p	p	740	
+ˀ	ʔ	676	
+w	w	634	
+d	d	591	
+y	j	558	
+ƀ	β	480	
+ʌ	ʌ	407	
+ə	ə	355	
+h	h	255	
+f	f	254	
+z	z	235	
+_	+	175	word boundary
+γ	ɣ	153	
+ř	r	152	UNCERTAIN: plain r read as tap, contrasting with trill ř/r̃; UNCERTAIN: ř read as trill (never co-occurs with r̃)
+ɔ	ɔ	150	
+ǥ	ʁ	137	UNCERTAIN: barred g contrasts with γ in 11 languages; uvular is a placeholder to keep the contrast
+a.	aː	115	
+ʰ	h	97	ʰ after a vowel
+ᵽ	ɸ	64	
+o.	oː	61	
+ᵏ	k̚	60	UNCERTAIN: superscript stop read as unreleased
+i.	iː	59	
+u.	uː	59	
+ž	ʒ	56	
+ᵘ	u̯	48	transitional vowel
+r̃	r	47	UNCERTAIN: plain r read as tap, contrasting with trill ř/r̃; UNCERTAIN: r̃ read as trill (never co-occurs with ř)
+kʰ	kʰ	42	
+e.	eː	36	
+ɏ	ʝ	35	UNCERTAIN: barred y read as voiced palatal fricative
+ⁱ	i̯	35	transitional vowel
+nʸ	nʲ	27	
+ᶺ	ʌ̆	26	transitional vowel
+pʰ	pʰ	23	
+ą	ã	23	ogonek = nasal
+ḳ	q	23	UNCERTAIN: dot below read as backed (uvular/retroflex)
+š	ʃ	18	
+ų	ũ	18	ogonek = nasal
+v	v	17	
+æ	æ	15	
+ɔ.	ɔː	14	
+tʰ	tʰ	13	
+ɛ.	ɛː	13	
+ę	ẽ	12	ogonek = nasal
+j	dʒ	10	UNCERTAIN: j (Gedaged, Amari) read as dʒ since y is [j]
+l̟	l̟	10	
+mʸ	mʲ	10	
+į	ĩ	10	ogonek = nasal
+x	x	9	
+č	tʃ	9	
+γ̟	ɣ̟	8	
+ᵊ	ə̆	8	transitional vowel
+R̃	r̥	7	UNCERTAIN: capital R read as voiceless trill
+g̣	ɢ	7	UNCERTAIN: dot below read as backed (uvular/retroflex)
+ñ	ɲ	7	
+ǫ	õ	7	ogonek = nasal
+ᵗ	t̚	7	UNCERTAIN: superscript stop read as unreleased
+ľ	lʲ	6	UNCERTAIN: l-caron read as palatalised l
+ᵛ	ʋ	6	UNCERTAIN: superscript v
+đ	ð	5	
+ᵖ	p̚	5	UNCERTAIN: superscript stop read as unreleased
+mʷ	mʷ	4	
+à	a	4	UNCERTAIN: grave dropped
+ì	i	4	UNCERTAIN: grave dropped
+í	i	4	UNCERTAIN: acute dropped
+ň	ɲ	4	UNCERTAIN: n-caron read as palatal nasal
+š͜	ʃ	4	UNCERTAIN: tie dropped
+Ɔ	ɔ̥	4	UNCERTAIN: capital vowel read as voiceless
+ɩ	ɪ	4	
+ᶺ.	ʌ̆ː	4	transitional vowel
+R	r̥	3	UNCERTAIN: capital R read as voiceless trill
+gʷ	gʷ	3	
+gʸ	gʲ	3	
+kʸ	kʲ	3	
+ŋʷ	ŋʷ	3	
+ŋʸ	ŋʲ	3	
+ŋ̣	ɴ	3	UNCERTAIN: dot below read as backed (uvular/retroflex)
+ɱ	ɱ	3	
+ạ	ɑ	3	UNCERTAIN: dot below read as backed (uvular/retroflex)
+a°	ḁ	2	UNCERTAIN: ° read as voiceless
+a͡	a	2	UNCERTAIN: tie dropped
+dʸ	dʲ	2	
+m̃	m	2	UNCERTAIN: tilde on m dropped
+u°	u̥	2	UNCERTAIN: ° read as voiceless
+ʷ	w	2	ʷ after a vowel
+ʸ	j	2	ʸ after a vowel
+ḏ̯	d̠	2	UNCERTAIN: macron below read as retracted; UNCERTAIN: arch/circumflex below dropped
+H	h	1	UNCERTAIN: capital H
+U	u̥	1	UNCERTAIN: capital vowel read as voiceless
+a͞	a	1	UNCERTAIN: double macron dropped
+bʷ	bʷ	1	
+bʸ	bʲ	1	
+e͡	e	1	UNCERTAIN: tie dropped
+h̟	h̟	1	
+kʷ	kʷ	1	
+m.	mː	1	
+m͞	m	1	UNCERTAIN: double macron dropped
+n.	nː	1	
+pʸ	pʲ	1	
+r̟	ɾ̟	1	UNCERTAIN: plain r read as tap, contrasting with trill ř/r̃
+s.	sː	1	
+tʸ	tʲ	1	
+t̨	t	1	UNCERTAIN: hook under consonant dropped
+w͞	w	1	UNCERTAIN: double macron dropped
+æ.	æː	1	
+è	e	1	UNCERTAIN: grave dropped
+é	e	1	UNCERTAIN: acute dropped
+ù	u	1	UNCERTAIN: grave dropped
+ú	u	1	UNCERTAIN: acute dropped
+ý	j	1	UNCERTAIN: acute dropped
+ā	a	1	UNCERTAIN: macron dropped
+ī	i	1	UNCERTAIN: macron dropped
+į.	ĩː	1	ogonek = nasal
+ų.	ũː	1	ogonek = nasal
+ǥʸ	ʁʲ	1	UNCERTAIN: barred g contrasts with γ in 11 languages; uvular is a placeholder to keep the contrast
+ǵ	g	1	UNCERTAIN: acute dropped
+ɗ	ɗ	1	
+ɛ̨	ɛ̃	1	ogonek = nasal
+ɨ	ɨ	1	
+ɩ.	ɪː	1	
+ʌ.	ʌː	1	
+ᵋ	ɛ̆	1	transitional vowel
+ᵛʰ	ʋʰ	1	UNCERTAIN: superscript v
+ḓ	d	1	UNCERTAIN: arch/circumflex below dropped
+ḻ̌	lʲ	1	UNCERTAIN: macron below read as retracted; UNCERTAIN: l-caron read as palatalised l
+ṕ	p	1	UNCERTAIN: acute dropped
+ṭ	ʈ	1	UNCERTAIN: dot below read as backed (uvular/retroflex)
+ẕ̯	z̠	1	UNCERTAIN: macron below read as retracted; UNCERTAIN: arch/circumflex below dropped
+ⁿ	n	1	UNCERTAIN: superscript n
+₂	NULL	1	footnote-like subscript in print

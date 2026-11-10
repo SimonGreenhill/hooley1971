@@ -1,0 +1,129 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_hair,hair,1040,HAIR
+2_head,head,1256,HEAD
+3_mouth,mouth,674,MOUTH
+4_nose,nose,1221,NOSE
+5_eye,eye,1248,EYE
+6_neck,neck,1333,NECK
+7_belly,belly,1251,BELLY
+8_skin,skin,763,SKIN
+9_knee,knee,1371,KNEE
+10_man,man,1554,MAN
+11_woman,woman,962,WOMAN
+12_bird,bird,937,BIRD
+13_dog,dog,2009,DOG
+14_bite,bite,1403,BITE
+15_sit,sit,1416,SIT
+16_stand,stand,1442,STAND
+17_lie,lie,1411,LIE (REST)
+18_road,road,667,ROAD
+19_stone,stone,857,STONE
+20_big,big,1202,BIG
+21_small,small,1246,SMALL
+22_fire,fire,221,FIRE
+23_smoke,smoke,778,SMOKE (EXHAUST)
+24_ashes,ashes,646,ASH
+25_ear,ear,1247,EAR
+26_tongue,tongue,1205,TONGUE
+27_tooth,tooth,1380,TOOTH
+28_breast,breast,1402,BREAST
+29_hand,hand,1277,HAND
+30_foot,foot,1301,FOOT
+31_sun,sun,1343,SUN
+32_moon,moon,1313,MOON
+33_star,star,1430,STAR
+34_cloud,cloud,1489,CLOUD
+35_rain,rain,2108,RAINING OR RAIN
+36_water,water,948,WATER
+37_tree,tree,906,TREE
+38_root,root,670,ROOT
+39_leaf,leaf,628,LEAF
+40_fat,fat,323,FAT (ORGANIC SUBSTANCE)
+41_egg,egg,744,EGG
+42_eat,eat,1336,EAT
+43_see,see,1409,SEE
+44_come,come,1446,COME
+45_louse,louse,1392,LOUSE
+46_one,one,1493,ONE
+47_two,two,1498,TWO
+48_back,back,1291,BACK
+49_shoulder,shoulder,1482,SHOULDER
+50_forehead,forehead,123,FOREHEAD
+51_heart,heart,1223,HEART
+52_liver,liver,1224,LIVER
+53_bone,bone,1394,BONE
+54_blood,blood,946,BLOOD
+55_wing,wing,1257,WING
+56_fingernail,fingernail,1258,FINGERNAIL
+57_tail,tail,1220,TAIL
+58_father,father,1217,FATHER
+59_mother,mother,1216,MOTHER
+60_brother,brother,1262,BROTHER
+61_sister,sister,1263,SISTER
+62_name,name,1405,NAME
+63_pig,pig,1337,PIG
+64_cassowary,cassowary,466,CASSOWARY
+65_wallaby,wallaby,165,WALLABY
+66_flyingfox,flying fox,235,FLYING FOX
+67_rat,rat,1490,RAT
+68_snake,snake,730,SNAKE
+69_taro,taro,351,TARO
+70_sugarcane,sugarcane,146,SUGAR CANE
+71_yam,yam,410,YAM
+72_banana,banana,868,BANANA
+73_sweetpotato,sweet potato,159,SWEET POTATO
+74_axe,axe,677,AXE
+75_knife,knife,1352,KNIFE
+76_arrow,arrow,977,ARROW
+77_stringbag,string bag,293,NETBAG
+78_house,house,1252,HOUSE
+79_earth,earth,1228,EARTH (SOIL)
+80_sand,sand,671,SAND
+81_mountain,mountain,639,MOUNTAIN
+82_wind,wind,960,WIND
+83_vine,vine,343,VINE
+84_night,night,1233,NIGHT
+85_yesterday,yesterday,1174,YESTERDAY
+86_tomorrow,tomorrow,1329,TOMORROW
+87_white,white,1335,WHITE
+88_black,black,163,BLACK
+89_yellow,yellow,1424,YELLOW
+90_good,good,1035,GOOD
+91_bad,bad,1292,BAD
+92_long,long,1203,LONG
+93_short,short,1645,SHORT
+94_heavy,heavy,1210,HEAVY
+95_light,light,1052,LIGHT (WEIGHT)
+96_cold,cold,1287,COLD
+97_hot,hot,1286,HOT
+98_old,old,1229,OLD
+99_new,new,1231,NEW
+100_many,many,1198,MANY
+101_what,what,1236,WHAT
+102_who,who,1235,WHO
+103_where,where,1237,WHERE
+104_round,round,1395,ROUND
+105_wet,wet,1726,WET
+106_dry,dry,1398,DRY
+107_full,full,1429,FULL
+108_three,three,492,THREE
+109_four,four,1500,FOUR
+110_five,five,493,FIVE
+111_ten,ten,1515,TEN
+112_say,say,1458,SAY
+113_no,no,1269,NO
+114_hear,hear,1408,HEAR
+115_drink,drink,1401,DRINK
+116_burn,burn,2102,BURN
+117_run,run,1519,RUN
+118_falldown,fall down,1280,FALL
+119_hit,hit,1433,HIT
+120_laugh,laugh,1355,LAUGH
+121_dance,dance,1879,DANCE
+122_i,I,1209,I
+123_thou,thou,1215,THOU
+124_he,he,1211,HE
+125_die,die,1494,DIE
+126_weexcl,we excl.,1130,WE (EXCLUSIVE)
+127_you,you,1213,YOU
+128_they,they,817,THEY

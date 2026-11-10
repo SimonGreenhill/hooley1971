@@ -1,0 +1,56 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Note
+Wagau,Wagau,waga1263,Wagau,,Papunesia,,,Austronesian,dialect of Mapos Buang
+Mapos,Mapos,mapo1243,Mapos,,Papunesia,,,Austronesian,dialect; language-level mapo1242
+Manga,Manga,mang1404,Mangga Buang,mmo,Papunesia,-6.99891,146.685,Austronesian,assumed Mangga Buang; Glottolog 'Manga' is a Saharan dialect
+Patep,Patep,pate1247,Patep,ptp,Papunesia,-6.91988,146.639,Austronesian,
+Kumaru,Kumaru,kuma1278,Kumalu,ksl,Papunesia,-7.1135,146.57,Austronesian,alt name 'Kumara' of Kumalu; also family damb1252 Dambi-Kumaru
+Zenag,Zenag,zena1237,Zenag,zeg,Papunesia,-6.93858,146.546,Austronesian,
+Towangara,Towangara,gora1262,Gorakor,goc,Papunesia,-6.85564,146.579,Austronesian,
+Sambio,Sambio,kapi1250,Kapin,tbx,Papunesia,-7.05732,146.529,Austronesian,alt name of Kapin
+Dambi,Dambi,damb1246,Dambi,dac,Papunesia,-7.00587,146.474,Austronesian,
+Piu,Piu,piuu1237,Piu,pix,Papunesia,-6.96694,146.455,Austronesian,
+Buasi,Buasi,vehe1237,Vehes,val,Papunesia,-6.92151,146.895,Austronesian,alt name of Vehes
+Latep,Latep,late1249,Latep,,Papunesia,,,Austronesian,dialect of Zenag
+Dunguntung,Dunguntung,midd1327,Middle Watut,mpl,Papunesia,-6.88249,146.399126,Austronesian,
+Dangal,Dangal,dang1263,Dangal,,Papunesia,,,Austronesian,dialect of South Watut
+Silisili,Silisili,midd1327,Middle Watut,mpl,Papunesia,-6.88249,146.399126,Austronesian,alt name of Middle Watut
+Bubwaf,Bubwaf,midd1327,Middle Watut,mpl,Papunesia,-6.88249,146.399126,Austronesian,
+Dagin,Dagin,wamp1247,Wampar,lbq,Papunesia,-6.67364,146.662,Austronesian,
+Azera,Azera,adze1240,Adzera,adz,Papunesia,-6.39394,146.294,Austronesian,Adzera
+Wampar,Wampar,wamp1247,Wampar,lbq,Papunesia,-6.67364,146.662,Austronesian,
+Sirak,Sirak,nafi1237,Nafi,srf,Papunesia,-6.43306,146.815,Austronesian,alt name of Nafi
+Guwot,Guwot,duwe1237,Duwet,gve,Papunesia,-6.45752,146.841,Austronesian,alt name of Duwet; table also lists Duwet separately
+Duwet,Duwet,duwe1237,Duwet,gve,Papunesia,-6.45752,146.841,Austronesian,Guwot maps to the same code
+Musom,Musom,muso1238,Musom,msu,Papunesia,-6.53817,146.93,Austronesian,
+Sukurum,Sukurum,suku1264,Sukurum,zsu,Papunesia,-6.28,146.34187,Austronesian,
+Sirasira,Sirasira,sara1323,Sarasira,zsa,Papunesia,-6.18,146.4,Austronesian,Sarasira
+Maralango,Maralango,mara1402,Maralango,,Papunesia,,,Austronesian,dialect of South Watut
+Wampur,Wampur,wamp1248,Wampur,waz,Papunesia,-6.33644,146.126,Austronesian,
+Mari,Mari,mari1429,Mari (Madang Province),hob,Papunesia,-5.97399,145.828,Austronesian,"Mari (Madang Province), Austronesian; other 'Mari' languoids exist"
+Onank,Onank,nort2857,North Watut,una,Papunesia,-6.64084,146.218,Austronesian,alt name of North Watut
+Yaros,Yaros,adze1240,Adzera,adz,Papunesia,-6.39394,146.294,Austronesian,
+Amari,Amari,adze1240,Adzera,adz,Papunesia,-6.39394,146.294,Austronesian,
+Labu,Labu,labu1248,Labu,lbu,Papunesia,-6.75,146.903,Austronesian,
+Bukaua,Bukaua,buga1250,Bugawac,buk,Papunesia,-6.67519,147.32,Austronesian,Bugawac
+Kela,Kela,kela1255,Kela (Papua New Guinea),kcl,Papunesia,-7.47103,147.173,Austronesian,Kela (Papua New Guinea)
+Kaiwa,Kaiwa,iwal1237,Iwal,kbm,Papunesia,-7.20938,146.983,Austronesian,alt name of Iwal; Glottolog 'Kaiwá' is Tupian
+Sipoma,Sipoma,numb1247,Numbami,sij,Papunesia,-7.52806,147.298,Austronesian,alt name of Numbami
+Hote,Hote,hote1245,Hote,hot,Papunesia,-7.07708,146.869,Austronesian,
+Yamap,Yamap,yama1260,Yamap,ymp,Papunesia,-7.05687,146.817,Austronesian,
+Jabem,Jabêm,yabe1254,Yabem,jae,Papunesia,-6.67052,147.81,Austronesian,Yabem
+Tami,Tami,tami1290,Tami,tmy,Papunesia,-6.70017,147.732,Austronesian,
+Malasanga,Malasanga,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.058,Austronesian,
+Gitua,Gitua,gitu1237,Gitua,ggt,Papunesia,-6.0151,147.485,Austronesian,
+Lukep,Lukep,loke1237,Lokep,,Papunesia,,,Austronesian,Lokep dialect; language-level arop1243 Arop-Lokep
+Mangap,Mangap,mbul1263,Mbula,mna,Papunesia,-5.66965,148.041,Austronesian,alt name of Mbula
+Barim,Barim,karn1252,Karnai,bbv,Papunesia,-5.74133,147.917,Austronesian,alt name of Karnai
+Mutu,Mutu,mutu1242,Mutu,tuc,Papunesia,-5.79405,148.014,Austronesian,
+Tuam,Tuam,mutu1242,Mutu,tuc,Papunesia,-5.79405,148.014,Austronesian,alt name of Mutu (Mutu-Tuam); tuam1243 is a family node
+Sio,Sio,sioo1240,Sio,xsi,Papunesia,-5.96037,147.353,Austronesian,
+Nengaya,Nengaya,mato1252,Mato,met,Papunesia,-5.91639,146.859,Austronesian,alt name of Mato
+Roinji,Roinji,ronj1237,Ronji,roe,Papunesia,-5.80782,146.731,Austronesian,Ronji
+Arawe,Arawe,solo1258,Solong,aaw,Papunesia,-5.86129,148.825,Austronesian,Solong (alt name Arawe); araw1283 is the family
+Maleu,Maleu,male1290,Maleu,,Papunesia,,,Austronesian,dialect; language-level male1289 Maleu-Kilenge
+Nakanai,Nakanai,naka1262,Nakanai,nak,Papunesia,-5.59931,150.888,Austronesian,
+Halia,Halia,hali1244,Halia,hla,Papunesia,-5.26603,154.662,Austronesian,
+Gedaged,Gedaged,geda1237,Gedaged,gdd,Papunesia,-5.18175,145.781,Austronesian,
