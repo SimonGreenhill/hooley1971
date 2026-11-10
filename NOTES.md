@@ -31,3 +31,12 @@ Hooley gives no IPA values in the tables. The orthography profile (`etc/orthogra
 - Accents, ties and double macrons are dropped.
 
 Use the `Form` column for Hooley's original transcription.
+
+### Nexus files
+`make` writes binary cognate matrices to `output/` with `cldfbench hooley1971.nexus`, via [nexusmaker](https://github.com/SimonGreenhill/NexusMaker):
+
+- `hooley1971.nex`: one character per cognate set (`<concept>_<number>`).
+- `hooley1971.asc.nex`: plus one overall ascertainment character.
+- `hooley1971.ascwords.nex`: plus one ascertainment character and a charset per concept.
+
+Options: `--filter FILE` drops the concepts listed in FILE (one per line); `--removecombined N` caps combined cognates (none occur in these data).

@@ -12,7 +12,11 @@ setup(
     py_modules=["lexibank_hooley1971"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["hooley1971=lexibank_hooley1971:Dataset"]},
-    install_requires=["pylexibank>=4.0"],
+    packages=["hooley1971_commands"],
+    entry_points={
+        "lexibank.dataset": ["hooley1971=lexibank_hooley1971:Dataset"],
+        "cldfbench.commands": ["hooley1971=hooley1971_commands"],
+    },
+    install_requires=["pylexibank>=4.0", "nexusmaker"],
     extras_require={"test": ["pytest-cldf"]},
 )
